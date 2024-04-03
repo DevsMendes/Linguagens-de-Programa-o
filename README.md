@@ -35,6 +35,4 @@ O projeto foi desenvolvido e testado utilizando o JDK versão 8.
 ## Bibliotecas Utilizadas
 Este projeto utiliza as bibliotecas padrão do Java: Scanner, Random e Character.
 
-Este README.md fornece uma visão geral do projeto LOTOFÁCIL em Java, incluindo uma descrição do projeto, requisitos e instruções sobre como executá-lo, bem como informações sobre a versão do JDK e as bibliotecas utilizadas. Certifique-se de ajustar as informações conforme necessário para o seu projeto específico.
 
-Se precisar de mais alguma coisa, estou à disposição para ajudar!
